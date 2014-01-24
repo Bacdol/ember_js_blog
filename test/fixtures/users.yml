@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+cycy:
+  name: Gourdin Cyrille
+  username: gourdin_cyrille
+  email: cyrillegourdin@gmail.com
+  password_digest: "$2a$10$wJTPdvpGgzDvkXChrcPyqOQrFFawzGu89B1rZze/lVIcJKWiNeAqS" # 'secret'
+
+yiyi:
+  name: Tan Yifei
+  username: tan_yifei
+  email: yifei.tan@gmail.com
+  password_digest: "$2a$10$wJTPdvpGgzDvkXChrcPyqOQrFFawzGu89B1rZze/lVIcJKWiNeAqS" # 'secret'
